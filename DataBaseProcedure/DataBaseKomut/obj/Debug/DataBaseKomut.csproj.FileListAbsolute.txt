@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\Software\Project\DataBaseKomut\DataBaseKomut\bin\Debug\DataBaseKomut.exe.config
+C:\Users\ASUS\Desktop\Software\Project\DataBaseKomut\DataBaseKomut\bin\Debug\DataBaseKomut.exe
+C:\Users\ASUS\Desktop\Software\Project\DataBaseKomut\DataBaseKomut\bin\Debug\DataBaseKomut.pdb
+C:\Users\ASUS\Desktop\Software\Project\DataBaseKomut\DataBaseKomut\obj\Debug\DataBaseKomut.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Software\Project\DataBaseKomut\DataBaseKomut\obj\Debug\DataBaseKomut.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Software\Project\DataBaseKomut\DataBaseKomut\obj\Debug\DataBaseKomut.Form1.resources
+C:\Users\ASUS\Desktop\Software\Project\DataBaseKomut\DataBaseKomut\obj\Debug\DataBaseKomut.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Software\Project\DataBaseKomut\DataBaseKomut\obj\Debug\DataBaseKomut.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Software\Project\DataBaseKomut\DataBaseKomut\obj\Debug\DataBaseKomut.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Software\Project\DataBaseKomut\DataBaseKomut\obj\Debug\DataBaseKomut.exe
+C:\Users\ASUS\Desktop\Software\Project\DataBaseKomut\DataBaseKomut\obj\Debug\DataBaseKomut.pdb
